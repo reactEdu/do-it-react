@@ -7,7 +7,7 @@ import ScrollSpy from './components/ScrollSpy';
 
 ReactDOM.render(
   <React.StrictMode>
-    <ScrollSpy />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
