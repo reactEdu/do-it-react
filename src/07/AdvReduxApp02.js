@@ -16,7 +16,7 @@ class AdvReduxApp extends Component {
   render() {
     return (
       <Provider store={this.store}>
-        리덕스 예제
+        리덕스 예제2
       </Provider>
     );
   }
