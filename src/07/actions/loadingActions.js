@@ -8,4 +8,5 @@ export const setLoading = loading => ({
 
 export const resetLoading = () => ({
   type: RESET_LOADING,
+  // 초기화 기능에는 payload가 불필요
 });
